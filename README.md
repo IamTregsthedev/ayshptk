@@ -1,4 +1,4 @@
-
+![](https://hit.yhype.me/github/profile?user_id=62694274)
 # <img src="https://raw.githubusercontent.com/ayshptk/ayshptk/master/wave.gif" height="30px" width="auto"> I'm Ayush
 I build stuff ***awesome*** things on the internet.<br>
 <h3 align="left">Find me on <a href="https://hey.aysh.me/twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ayshptk" height="30" width="40" /></a> and <a href="https://hey.aysh.me/instagram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ayshptk" height="30" width="40" /></a></h3>
